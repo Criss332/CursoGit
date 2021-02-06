@@ -16,5 +16,10 @@ $ git add . : con este agragas todos los archvios que no esten agregados en git
 git commit -am "parrafo y color de titulo" : con este guardamos y agregamos captura osea dos cosas a la vez
     como git add ... y git commit -m "..
 
+git commit -amend: te envia a otra consola donde puedes hacer muchas cosas en esas 
+    cambiar el nombre de la captura si depronto estaba mal escrita etc.
+
+    :i se coloca para editar el nombre 
+    :wq : te sales de la consola anterior
 
 
