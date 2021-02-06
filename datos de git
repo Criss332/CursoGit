@@ -1,0 +1,10 @@
+git init : con este se inicia un nuevo proyecto 
+git status -s : con este vez si los archivos dentro de la carpeta creada estan guardadas
+git add empresa_A.php : le das una orden a git que guarde ese archivo 
+git commit -m "Inicio de proyecto": con esto le das una orden a git que 
+    tome una captura de todo lo que se hizo en en proyecto.
+git config --list: muestra una lista de todo
+git reset --hard e0d9421: con este reseteas o lo ubicas en versiones anteriores
+$ git add . : con este agragas todos los archvios que no esten agregados en git
+
+
